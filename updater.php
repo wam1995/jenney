@@ -182,6 +182,6 @@ new Updater(
         'repo' => 'wowwwai/jenney',
         'slug' => 'jenney',
         'url'  => 'https://www.joytheme.com/',
-        'ver'  => 3.2
+        'ver'  => 3.3
     ]
 );
