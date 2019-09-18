@@ -33,15 +33,5 @@ require_once(dirname(__FILE__) . '/updater.php');
 # ------------------------------------------------------------------------------
 add_theme_support( 'customize-selective-refresh-widgets' );
 
-new Updater(
-    [
-        'name' => 'Jenney',
-        'repo' => 'wowwwai/jenney',
-        'slug' => 'jenney',
-        'url'  => 'https://www.joytheme.com/',
-        'ver'  => 3.2
-    ]
-);
-
 }
 
